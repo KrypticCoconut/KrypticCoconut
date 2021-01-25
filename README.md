@@ -20,8 +20,5 @@
 ![my github stats](https://github-readme-stats-abserari.vercel.app/api?username=PineMaster&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![langs i use](https://github-readme-stats.vercel.app/api/top-langs/?username=PineMaster&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 Also i use arch btw ;D
