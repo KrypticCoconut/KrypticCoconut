@@ -50,6 +50,9 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
+💻 Operating System: 
+No Activity Tracked This Week
+
 ```
 
 
