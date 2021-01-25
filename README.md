@@ -21,21 +21,43 @@
 ![langs i use](https://github-readme-stats.vercel.app/api/top-langs/?username=PineMaster&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+🌆 Daytime    66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.72% 
+🌃 Evening    117 commits    ███████████░░░░░░░░░░░░░░   47.37% 
+🌙 Night      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Tuesday      71 commits     ███████░░░░░░░░░░░░░░░░░░   28.74% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
+Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.45% 
+Sunday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Los_Angeles
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
 
 ```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/PineMaster/PineMaster/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
