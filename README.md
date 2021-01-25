@@ -47,17 +47,7 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/PineMaster/PineMaster/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
