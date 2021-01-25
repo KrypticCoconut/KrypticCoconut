@@ -23,64 +23,64 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-**🐱 My Github Data**
+**🐱 My Github Data** 
 
-> 🏆 22 Contributions in the Year 2021
- >
+> 🏆 33 Contributions in the Year 2021
+ > 
 > 📦 1.1 MB Used in Github's Storage 
- >
+ > 
 > 💼 Opted to Hire
- >
-> 📜 7 Public Repositories
- >
+ > 
+> 📜 8 Public Repositories 
+ > 
 > 🔑 5 Private Repositories  
- >
-**I'm a Night 🦉**
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74%
-🌆 Daytime    66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.72%
-🌃 Evening    117 commits    ███████████░░░░░░░░░░░░░░   47.37%
+🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+🌆 Daytime    66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.72% 
+🌃 Evening    117 commits    ███████████░░░░░░░░░░░░░░   47.37% 
 🌙 Night      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
 
 ```
-📅 **I'm Most Productive on Tuesday**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05%
-Tuesday      71 commits     ███████░░░░░░░░░░░░░░░░░░   28.74%
-Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57%
-Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
-Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
-Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
+Monday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Tuesday      71 commits     ███████░░░░░░░░░░░░░░░░░░   28.74% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
+Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.45% 
 Sunday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Los_Angeles
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ████████████████████░░░░░   83.33%
+Python                   5 repos             ████████████████████░░░░░   83.33% 
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
@@ -88,7 +88,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/PineMaster/PineMaster/main/charts/bar_graph.png)
+![Chart not found](https://raw.githubusercontent.com/PineMaster/PineMaster/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
