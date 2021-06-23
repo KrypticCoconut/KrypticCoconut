@@ -17,8 +17,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PineMaster&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PineMaster&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrypticCoconut&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrypticCoconut&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
 </a>
 </p>
 
