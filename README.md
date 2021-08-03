@@ -11,9 +11,10 @@
 ### About me
 - i like to automate stuff
 - currently learning python and some of its frameworks
-- big warframe and league of legends player
-- i am currently competing [Cyberpatriot](https://www.uscyberpatriot.org/)
-- I am also competing in [ACSL](https://www.acsl.org/) with some of my friends
+- warframe and league of legends addict
+- i mainly work on backend projects.
+- me and my team got 13th at nats in cyberpatriot
+- learning tensorflow and data engineering as of now
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -56,7 +57,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
 
 
