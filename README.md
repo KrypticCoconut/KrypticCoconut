@@ -13,7 +13,6 @@
 - currently learning python and some of its frameworks
 - warframe and league of legends addict
 - i mainly work on backend projects.
-- me and my team got 13th at nats in cyberpatriot
 - learning tensorflow and data engineering as of now
 
 <p align="center">
